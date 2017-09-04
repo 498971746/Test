@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#BD8C49</color>
+    <color name="statusBarColor">#000000</color>
+
+    <color name="list_view_main_divider">#cccccc</color>
+
+    <color name="tab_item_text_normal">#494949</color>
+    <color name="tab_item_text_select">#bd8c49</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="circle_image_view_border_color">#FFFFFF</color>
+
+    <color name="list_main_item_content_like_text">#314C83</color>
+
+    <color name="list_comment_item_background">#F5F5F5</color>
+
+    <color name="list_comment_item_female_user_name">#F45DAA</color>
+    <color name="list_comment_item_male_user_name">#314C83</color>
+
+    <color name="list_comment_item_content">#494949</color>
+
+</resources>

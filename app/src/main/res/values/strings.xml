@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tab_item_friend">好友</string>
+    <string name="tab_item_square">广场</string>
+
+
+    <string name="account">流逝的傷</string>
+
+    <string name="user_game_area">安卓手Q181区</string>
+    <string name="user_game_name">Ever丶莫痕</string>
+    <string name="user_game_segment">秩序白银Ⅱ</string>
+
+    <string name="list_main_item_content_time">08-19 09:19</string>
+    <string name="list_main_item_content_from">助手好友</string>
+
+    <string name="list_child_item_text">查看全部</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CollapsingToolbarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="@dimen/list_main_item_padding"
+    android:paddingBottom="@dimen/list_main_item_padding">
+
+    <include layout="@layout/list_reply_item_user"/>
+
+    <include layout="@layout/list_main_item_content"/>
+</android.support.design.widget.CollapsingToolbarLayout>
